@@ -1,0 +1,90 @@
+{
+  "data": {
+  "skill": [
+      {
+        "names": "HTML5/CSS3",
+        "id": "html",
+        "details": "웹표준, 웹 접근성을 준수하고 HTML5, CSS3를 활용하여 시멘틱한 마크업을 사용합니다.",
+        "url": "https://www.w3schools.com/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_html.png",
+      },
+      {
+        "names": "Sass",
+        "id": "sass",
+        "details": "Sass를 활용하여 CSS를 컴파일 합니다. 간결하고 재사용, 확장성이 가능한 CSS 코드를 사용하려 합니다.",
+        "url": "https://sass-lang.com/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_sass.png",
+      },
+      {
+        "names": "JavaScript",
+        "id": "script",
+        "details": "JavaScript의 ES5, ES6 문법을 활용하여 웹/앱 환경에 최적화 된 모션과 기능을 구현하도록 노력합니다.",
+        "url": "https://www.w3schools.com/js/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_script.png",
+      },
+      {
+        "names": "React",
+        "id": "react",
+        "details": "React를 공부중이며 현재 저의 포트폴리오 사이트도 React로 구현하였습니다.",
+        "url": "https://github.com/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_react.png",
+      },
+      {
+        "names": "Recoil",
+        "id": "recoil",
+        "details": "React의 상태관리를 위해 Recoil을 사용합니다.",
+        "url": "https://recoiljs.org/ko/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_recoil.png",
+      },
+      {
+        "names": "Next",
+        "id": "next",
+        "details": "React의 SSR(Server Side Rendering)을 쉽게 구현할 수 있도록 Next.js를 이용했습니다.",
+        "url": "https://nextjs.org/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_next.png",
+      },
+      {
+        "names": "Git/SVN",
+        "id": "git",
+        "details": "다수의 작업자들과 효율적으로 작업을 진행하기 위해 히스토리 관리 및 버전관리를 사용하였습니다.",
+        "url": "https://github.com/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_git.png",
+      },
+      {
+        "names": "Zeplin",
+        "id": "zeplin",
+        "details": "디자이너와 협업을 위해 제플린을 통해 디자인을 전달받고 작업하였고 코멘트로 수정사항과 피드백을 전달하였습니다.",
+        "url": "https://zeplin.io/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_zeplin.png",
+      },
+      {
+        "names": "Jira",
+        "id": "jira",
+        "details": "Jira를 통하여 신규서비스 및 수정사항, 히스토리를 관리하며 소스코드를 배포,수정합니다.",
+        "url": "https://ko.atlassian.com/software/jira",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_jira.png",
+      },
+      {
+        "names": "Wiki\nConfluence",
+        "id": "wiki",
+        "details": "Wiki Confluence를 통해 이슈사항을 히스토리를 남겨서 모두가 확인하고 반복된 실수를 하지 않도록 공유하였습니다.",
+        "url": "https://ko.atlassian.com/software/confluence",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_wiki.png",
+      },
+      {
+        "names": "RedMine",
+        "id": "redmine",
+        "details": "https://www.redmine.org/",
+        "url": "RedMine을 통하여 프로젝트의 전체 업무 일정을 확인하고 배분하여 작업을 진행하였습니다.",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_redmine.png",
+      },
+      {
+        "names": "Slack",
+        "id": "slack",
+        "details": "Slack을 통해 이슈사항을 공유하고 프로젝트별로 채널을 만들어 업무의 상황과 이슈를 공유하여 효율을 높입니다.",
+        "url": "https://slack.com/",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_slack.png",
+      },
+    ]
+  }
+}
