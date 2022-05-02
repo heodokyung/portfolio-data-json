@@ -74,8 +74,8 @@
       {
         "names": "RedMine",
         "id": "redmine",
-        "details": "https://www.redmine.org/",
-        "url": "RedMine을 통하여 프로젝트의 전체 업무 일정을 확인하고 배분하여 작업을 진행하였습니다.",
+        "details": "RedMine을 통하여 프로젝트의 전체 업무 일정을 확인하고 배분하여 작업을 진행하였습니다.",
+        "url": "https://www.redmine.org/",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_redmine.png"
       },
       {
