@@ -154,7 +154,7 @@
         "link": "/detail/mobile/m_tgif",
         "id" : "m_tgif",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/tgif_m.jpg",
-        "title": "롯데리아 5개 브랜드<br /> 모바일 웹 TGI FRIDAYS",
+        "title":ㅁ리아 5개 브랜드<br /> 모바일 웹 TGI FRIDAYS",
         "sch": "2015 롯데리아 moblie tgi fridays mobile 티지아이 티쥐아이"
       },
       {
@@ -307,7 +307,7 @@
         "leng": "KOR",
         "new": false,
         "date": "2013.04.24 ~ 2013.07.31",
-        "link": "/detail/web/w_lotte",
+        "link": "/detail/web/w_lottemembers",
         "id" : "w_lotte",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotte_w.jpg",
         "title": "롯데카드 차세대 멤버스 홈페이지",
@@ -319,10 +319,10 @@
         "leng": "KOR",
         "new": false,
         "date": "2013.04.24 ~ 2013.07.31",
-        "link": "/detail/mobile/m_lotte",
+        "link": "/detail/mobile/m_lottemembers",
         "id" : "m_lotte",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotte_m.jpg",
-        "title": "롯데카드 차세대 모바일",
+        "title": "롯데카드 차세대 멤버스 모바일",
         "sch": "2013 롯데카드 차세대 모바일 mobile lottecard"
       },
       {
