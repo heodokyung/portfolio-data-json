@@ -8,7 +8,7 @@
         "new": true,
         "date": "2021.07.12 ~ 현재",
         "link": "/detail/web/w_finnq_v3",
-        "id" : "w_finnq_v3",
+        "id" : "W_finnq_v3",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w_v2.jpg",
         "title": "Finnq<br />웹 서비스 React 개편",
         "sch": "2018 2019 2020 2021 finnq 핀크 web responsive 반응형 웹 홈페이지 react"
@@ -20,7 +20,7 @@
         "new": false,
         "date": "2018.08.01 ~ 현재",
         "link": "/detail/mobile/m_finnq_app_v2",
-        "id" : "m_finnq_app_v2",
+        "id" : "M_finnq_app_v2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_m.jpg",
         "title": "Finnq<br />모바일 앱 서비스 운영",
         "sch": "2018 2019 2020 2021 finnq 핀크 mobile app 앱 모바일"
@@ -32,7 +32,7 @@
         "new": false,
         "date": "2018.08.01 ~ 2021.07.12",
         "link": "/detail/web/w_finnq_v2",
-        "id" : "w_finnq_v2",
+        "id" : "W_finnq_v2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w.jpg",
         "title": "Finnq<br />웹 서비스 2.0 운영",
         "sch": "2018 2019 2020 2021 finnq 핀크 web responsive 반응형 웹 홈페이지"
@@ -44,7 +44,7 @@
         "new": false,
         "date": "2017.11.10 ~ 2018.07.31",
         "link": "/detail/web/w_kebhana_open",
-        "id" : "w_kebhana_open",
+        "id" : "W_kebhana_open",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_open.jpg",
         "title": "KEB 하나은행<br />기업뱅킹 고도화 구현",
         "sch": "2017 2018 KEB 하나은행 기업뱅킹 hanabank web 웹 홈페이지"
@@ -56,7 +56,7 @@
         "new": false,
         "date": "2018.01.08 ~ 2018.06.29",
         "link": "/detail/mobile/m_hana_app",
-        "id" : "m_hana_app",
+        "id" : "M_hana_app",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_m_app.jpg",
         "title": "KEB 하나은행<br /> 1Q bank 기업",
         "sch": "2018 KEB 하나은행 1Q hanabank 기업 mobile 모바일"
@@ -68,7 +68,7 @@
         "new": false,
         "date": "2017.08.07 ~ 2017.11.09",
         "link": "/detail/web/w_kebhana_company2",
-        "id" : "w_kebhana_company2",
+        "id" : "W_kebhana_company2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_com2.jpg",
         "title": "KEB 하나은행<br />기업뱅킹 서비스 운영",
         "sch": "2017 KEB 하나은행 1Q hanabank 기업뱅킹 운영 web 웹 홈페이지"
@@ -80,7 +80,7 @@
         "new": false,
         "date": "2017.02.27 ~ 2017.08.06",
         "link": "/detail/web/w_kebhana_combine",
-        "id" : "w_kebhana_combine",
+        "id" : "W_kebhana_combine",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_combine.jpg",
         "title": "KEB 하나은행<br /> CBS / CBS Light 통합개편",
         "sch": "2017 KEB 하나은행 1Q CBS / CBS Light hanabank 통합개편 web 웹 홈페이지"
@@ -92,7 +92,7 @@
         "new": false,
         "date": "2017.01.11 ~ 2017.02.24",
         "link": "/detail/web/w_kebhana_company",
-        "id" : "w_kebhana_company",
+        "id" : "W_kebhana_company",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_com.jpg",
         "title": "KEB 하나은행<br />기업뱅킹 서비스 운영",
         "sch": "2017 KEB 하나은행 1Q hanabank 기업뱅킹 운영 web 웹 홈페이지"
@@ -104,7 +104,7 @@
         "new": false,
         "date": "2016.06.27 ~ 2017.01.06",
         "link": "/detail/web/w_mirae",
-        "id" : "w_mirae",
+        "id" : "W_mirae",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/mirae_w.jpg",
         "title": "미래에셋대우<br /> 채널통합 TFT 시스템",
         "sch": "2016 미래에셋대우 miraeasset daewoo TFT web 웹 홈페이지"
@@ -116,7 +116,7 @@
         "new": false,
         "date": "2016.04.11 ~ 2016.06.03",
         "link": "/detail/web/w_kebhana",
-        "id" : "w_kebhana",
+        "id" : "W_kebhana",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w.jpg",
         "title": "KEB 하나은행<br /> 웹사이트 통합개편",
         "sch": "2016 KEB 하나은행 hanabank web 웹 홈페이지"
@@ -128,7 +128,7 @@
         "new": false,
         "date": "2015.08.31 ~ 2015.12.30",
         "link": "/detail/web/w_han",
-        "id" : "w_han",
+        "id" : "W_han",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/han_w.jpg",
         "title": "한국수력원자력<br /> 웹 사이트 통합개편",
         "sch": "2015 한국수력원자력 한수원 web 웹 홈페이지"
@@ -140,7 +140,7 @@
         "new": false,
         "date": "2015.08.31 ~ 2015.12.30",
         "link": "/detail/mobile/m_han",
-        "id" : "m_han",
+        "id" : "M_han",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/han_m.jpg",
         "title": "한국수력원자력<br /> 웹 사이트 통합개편",
         "sch": "2015 한국수력원자력 한수원 mobile 모바일"
@@ -152,7 +152,7 @@
         "new": false,
         "date": "2015.05.26 ~ 2015.08.14",
         "link": "/detail/mobile/m_tgif",
-        "id" : "m_tgif",
+        "id" : "M_tgif",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/tgif_m.jpg",
         "title": "2015 롯데리아 moblie 5개 브랜드<br /> 모바일 웹 TGI FRIDAYS",
         "sch": "2015 롯데리아 moblie tgi fridays mobile 티지아이 티쥐아이"
@@ -164,7 +164,7 @@
         "new": false,
         "date": "2015.05.26 ~ 2015.08.14",
         "link": "/detail/mobile/m_tgif_e",
-        "id" : "m_tgif_e",
+        "id" : "M_tgif_e",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/tgif_m_e.jpg",
         "title": "롯데리아 5개 브랜드<br /> 모바일 웹 TGI FRIDAYS",
         "sch": "2015 롯데리아 moblie tgi fridays mobile 티지아이 티쥐아이"
@@ -176,7 +176,7 @@
         "new": false,
         "date": "2015.05.26 ~ 2015.08.14",
         "link": "/detail/mobile/m_angel",
-        "id" : "m_angel",
+        "id" : "M_angel",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/angel_m.jpg",
         "title": "롯데리아 5개 브랜드<br /> 모바일 웹 엔제리너스 커피",
         "sch": "2015 롯데리아 모바일 웹 엔제리너스 커피 mobile"
@@ -188,7 +188,7 @@
         "new": false,
         "date": "2015.05.26 ~ 2015.08.14",
         "link": "/detail/mobile/m_angel_e",
-        "id" : "m_angel_e",
+        "id" : "M_angel_e",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/angel_m_e.jpg",
         "title": "롯데리아 5개 브랜드<br /> 모바일 웹 엔제리너스 커피",
         "sch": "2015 롯데리아 모바일 웹 엔제리너스 커피 mobile angel coffee"
@@ -200,7 +200,7 @@
         "new": false,
         "date": "2015.05.26 ~ 2015.08.14",
         "link": "/detail/mobile/m_lotteria",
-        "id" : "m_lotteria",
+        "id" : "M_lotteria",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotteria_m.jpg",
         "title": "롯데리아 5개 브랜드<br /> 모바일 웹 롯데리아",
         "sch": "2015 롯데리아 모바일 웹 롯데리아 mobile lotteria"
@@ -212,7 +212,7 @@
         "new": false,
         "date": "2015.05.26 ~ 2015.08.14",
         "link": "/detail/mobile/m_natuur",
-        "id" : "m_natuur",
+        "id" : "M_natuur",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/natuur_m.jpg",
         "title": "롯데리아 5개 브랜드<br /> 모바일 웹 나뚜루 팝",
         "sch": "2015 모바일 웹 나뚜루 팝 mobile natuur"
@@ -224,7 +224,7 @@
         "new": false,
         "date": "2015.05.26 ~ 2015.08.14",
         "link": "/detail/mobile/m_krispy",
-        "id" : "m_krispy",
+        "id" : "M_krispy",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/krispy_m.jpg",
         "title": "롯데리아 5개 브랜드<br /> 모바일 웹 구축 크리스피 크림 도넛",
         "sch": "2015 모바일 크리스피 크림 도넛 mobile krispy"
@@ -236,7 +236,7 @@
         "new": false,
         "date": "2015.02.16 ~ 2015.04.22",
         "link": "/detail/web/w_benecol",
-        "id" : "w_benecol",
+        "id" : "W_benecol",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/benecol_w.jpg",
         "title": "롯데푸드 파스퇴르 베네콜",
         "sch": "2015 롯데푸드 파스퇴르 베네콜 web benecol 홈페이지 웹"
@@ -248,7 +248,7 @@
         "new": false,
         "date": "2015.01.05 ~ 2015.02.06",
         "link": "/detail/mobile/m_adcap",
-        "id" : "m_adcap",
+        "id" : "M_adcap",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/adcapsule_m.jpg",
         "title": "애드캡슐소프트<br /> 홈페이지 개편",
         "sch": "2015 애드캡슐소프트 mobile adcapsule 홈페이지 웹"
@@ -260,7 +260,7 @@
         "new": false,
         "date": "2014.08.11 ~ 2014.12.26",
         "link": "/detail/web/w_samsung",
-        "id" : "w_samsung",
+        "id" : "W_samsung",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/samsung_stock_r.jpg",
         "title": "삼성증권 홈페이지 개편",
         "sch": "2014 삼성증권 responsive 홈페이지 웹 반응형"
@@ -272,7 +272,7 @@
         "new": false,
         "date": "2014.05.12 ~ 2014.05.30",
         "link": "/detail/mobile/m_kloudbeer",
-        "id" : "m_kloudbeer",
+        "id" : "M_kloudbeer",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kloud_m.jpg",
         "title": "클라우드 맥주 브랜드 사이트",
         "sch": "2014 클라우드 맥주 롯데주류 mobile 모바일"
@@ -284,7 +284,7 @@
         "new": false,
         "date": "2014.03.03 ~ 2014.05.02",
         "link": "/detail/web/w_namdong_k",
-        "id" : "w_namdong_k",
+        "id" : "W_namdong_k",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kosep_w_kr.jpg",
         "title": "한국남동발전<br /> 인터넷 웹 서비스 개선",
         "sch": "2014 한국남동발전 web 웹"
@@ -308,7 +308,7 @@
         "new": false,
         "date": "2013.04.24 ~ 2013.07.31",
         "link": "/detail/web/w_lottemembers",
-        "id" : "w_lotte",
+        "id" : "W_lotte",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotte_w.jpg",
         "title": "롯데카드 차세대 멤버스 홈페이지",
         "sch": "2013 롯데카드 차세대 홈페이지 웹 web lottecard"
@@ -320,7 +320,7 @@
         "new": false,
         "date": "2013.04.24 ~ 2013.07.31",
         "link": "/detail/mobile/m_lottemembers",
-        "id" : "m_lotte",
+        "id" : "M_lotte",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotte_m.jpg",
         "title": "롯데카드 차세대 멤버스 모바일",
         "sch": "2013 롯데카드 차세대 모바일 mobile lottecard"
@@ -332,7 +332,7 @@
         "new": false,
         "date": "2013.03.01 ~ 2013.03.28",
         "link": "/detail/web/w_dovol",
-        "id" : "w_dovol",
+        "id" : "W_dovol",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/doval_w.jpg",
         "title": "청소년 자원봉사<br /> 활동정보서비스",
         "sch": "2013 청소년 자원봉사 활동정보서비스 웹 web 홈페이지"
@@ -344,7 +344,7 @@
         "new": false,
         "date": "2012.10.01 ~ 2013.02.28",
         "link": "/detail/web/w_mofat",
-        "id" : "w_mofat",
+        "id" : "W_mofat",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/mofat_w.jpg",
         "title": "외교통상부<br /> 통합문서 관리 시스템",
         "sch": "2013 외교통상부 통합문서 관리 시스템 웹 web"
@@ -356,7 +356,7 @@
         "new": false,
         "date": "2010.04.12 ~ 2012.02.01",
         "link": "/detail/web/w_ramada",
-        "id" : "w_ramada",
+        "id" : "W_ramada",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/ramada_w.jpg",
         "title": "Ramada HOTEL Casino<br /> 웹 사이트 운영",
         "sch": "2012 Ramada hotel Casino 웹 운영 web 라마다 카지노 호텔 홈페이지"
