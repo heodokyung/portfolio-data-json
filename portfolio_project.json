@@ -6,11 +6,12 @@
         "type": "Responsive",
         "leng": "KOR",
         "new": true,
-        "date": "2022.04.25 ~ 2022.05.06",
+        "date": "2022.05.02 ~ 2022.05.13",
         "link": "/detail/w_portfolio_v2",
         "id" : "w_portfolio_v2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/portfolio_w_v2.jpg",
-        "title": "포트폴리오 웹 React 개편"        
+        "title": "포트폴리오 웹 React 개편",
+        "persent": 100
       },
       {
         "gubun": "y2018 y2019 y2020 y2021 y2022 ui w r",
@@ -21,7 +22,8 @@
         "link": "/detail/w_finnq_v3",
         "id" : "w_finnq_v3",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w_v2.jpg",
-        "title": "Finnq<br />웹 서비스 React 개편"        
+        "title": "Finnq<br />웹 서비스 React 개편",
+        "persent": 100
       },
       {
         "gubun": "y2018 y2019 y2020 y2021 ui m",
@@ -32,7 +34,8 @@
         "link": "/detail/m_finnq_app_v2",
         "id" : "m_finnq_app_v2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_m.jpg",
-        "title": "Finnq<br />모바일 앱 서비스 운영"        
+        "title": "Finnq<br /> App 2.0/3.0 개편 서비스 운영",
+        "persent": 70
       },
       {
         "gubun": "y2018 y2019 y2020 y2021 ui w r",
@@ -43,7 +46,8 @@
         "link": "/detail/w_finnq_v2",
         "id" : "w_finnq_v2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w.jpg",
-        "title": "Finnq<br />웹 서비스 2.0 운영"        
+        "title": "Finnq<br />웹 서비스 2.0 운영",
+        "persent": 80
       },
       {
         "gubun": "y2017 p2018 ui w",
@@ -54,7 +58,8 @@
         "link": "/detail/w_kebhana_open",
         "id" : "w_kebhana_open",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_open.jpg",
-        "title": "KEB 하나은행<br />기업뱅킹 고도화 구현"        
+        "title": "KEB하나은행<br />기업뱅킹 고도화 구현",
+        "persent": 40
       },
       {
         "gubun": "y2018 ui m",
@@ -65,7 +70,8 @@
         "link": "/detail/m_hana_app",
         "id" : "m_hana_app",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_m_app.jpg",
-        "title": "KEB 하나은행<br /> 1Q bank 기업"        
+        "title": "KEB하나은행<br /> 1Q bank 기업뱅킹 App 구축",
+        "persent": 100
       },
       {
         "gubun": "y2017 ui w",
@@ -76,7 +82,8 @@
         "link": "/detail/w_kebhana_company2",
         "id" : "w_kebhana_company2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_com2.jpg",
-        "title": "KEB 하나은행<br />기업뱅킹 서비스 운영"        
+        "title": "KEB하나은행<br />기업뱅킹 서비스 통합 서비스 운영",
+        "persent": 100
       },
       {
         "gubun": "y2017 ui w",
@@ -87,7 +94,8 @@
         "link": "/detail/w_kebhana_combine",
         "id" : "w_kebhana_combine",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_combine.jpg",
-        "title": "KEB 하나은행<br /> CBS / CBS Light 통합개편"        
+        "title": "KEB하나은행<br /> 기업뱅킹 CBS 채널 통합개편",
+        "persent": 80
       },
       {
         "gubun": "y2017 ui w",
@@ -98,7 +106,8 @@
         "link": "/detail/w_kebhana_company",
         "id" : "w_kebhana_company",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_com.jpg",
-        "title": "KEB 하나은행<br />기업뱅킹 서비스 운영"        
+        "title": "KEB하나은행<br />기업뱅킹 서비스 운영",
+        "persent": 100
       },
       {
         "gubun": "y2016 p2017 ui w",
@@ -109,7 +118,8 @@
         "link": "/detail/w_mirae",
         "id" : "w_mirae",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/mirae_w.jpg",
-        "title": "미래에셋대우<br /> 채널통합 TFT 시스템"        
+        "title": "미래에셋대우<br /> 채널통합 TFT 시스템 구축",
+        "persent": 70
       },
       {
         "gubun": "y2016 ui w",
@@ -120,7 +130,8 @@
         "link": "/detail/w_kebhana",
         "id" : "w_kebhana",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w.jpg",
-        "title": "KEB 하나은행<br /> 웹사이트 통합개편"        
+        "title": "KEB하나은행<br /> 개인뱅킹 웹 통합개편",
+        "persent": 30
       },
       {
         "gubun": "y2015 ui w",
@@ -131,7 +142,8 @@
         "link": "/detail/w_han",
         "id" : "w_han",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/han_w.jpg",
-        "title": "한국수력원자력<br /> 웹 사이트 통합개편"        
+        "title": "한국수력원자력<br /> 웹 사이트 통합개편",
+        "persent": 40
       },
       {
         "gubun": "y2015 ui m",
@@ -142,7 +154,8 @@
         "link": "/detail/m_han",
         "id" : "m_han",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/han_m.jpg",
-        "title": "한국수력원자력<br /> 웹 사이트 통합개편"        
+        "title": "한국수력원자력<br /> 모바일 웹 사이트 통합개편",
+        "persent": 100
       },
       {
         "gubun": "y2015 ui m",
@@ -153,7 +166,8 @@
         "link": "/detail/m_tgif",
         "id" : "m_tgif",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/tgif_m.jpg",
-        "title": "2015 롯데리아 moblie 5개 브랜드<br /> 모바일 웹 TGI FRIDAYS"        
+        "title": "TGI FRIDAYS <br /> 모바일 웹(KOR) 구축",
+        "persent": 100
       },
       {
         "gubun": "y2015 ui m",
@@ -164,7 +178,8 @@
         "link": "/detail/m_tgif_e",
         "id" : "m_tgif_e",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/tgif_m_e.jpg",
-        "title": "롯데리아 5개 브랜드<br /> 모바일 웹 TGI FRIDAYS"        
+        "title": "TGI FRIDAYS<br /> 모바일 웹(ENG) 구축",
+        "persent": 100
       },
       {
         "gubun": "y2015 ui m",
@@ -175,7 +190,8 @@
         "link": "/detail/m_angel",
         "id" : "m_angel",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/angel_m.jpg",
-        "title": "롯데리아 5개 브랜드<br /> 모바일 웹 엔제리너스 커피"        
+        "title": "엔제리너스(KOR)<br /> 커피 모바일 웹 구축",
+        "persent": 100
       },
       {
         "gubun": "y2015 ui m",
@@ -186,7 +202,8 @@
         "link": "/detail/m_angel_e",
         "id" : "m_angel_e",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/angel_m_e.jpg",
-        "title": "롯데리아 5개 브랜드<br /> 모바일 웹 엔제리너스 커피"        
+        "title": "엔제리너스(ENG)<br /> 커피 모바일 웹 구축",
+        "persent": 100
       },
       {
         "gubun": "y2015 ui m",
@@ -197,7 +214,8 @@
         "link": "/detail/m_lotteria",
         "id" : "m_lotteria",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotteria_m.jpg",
-        "title": "롯데리아 5개 브랜드<br /> 모바일 웹 롯데리아"        
+        "title": "롯데리아<br /> 모바일 웹(국문) 구축",
+        "persent": 30
       },
       {
         "gubun": "y2015 ui m",
@@ -208,7 +226,8 @@
         "link": "/detail/m_natuur",
         "id" : "m_natuur",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/natuur_m.jpg",
-        "title": "롯데리아 5개 브랜드<br /> 모바일 웹 나뚜루 팝"        
+        "title": "나뚜루 팝<br /> 모바일 웹(국문) 구축",
+        "persent": 30
       },
       {
         "gubun": "y2015 ui m",
@@ -219,7 +238,8 @@
         "link": "/detail/m_krispy",
         "id" : "m_krispy",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/krispy_m.jpg",
-        "title": "롯데리아 5개 브랜드<br /> 모바일 웹 구축 크리스피 크림 도넛"        
+        "title": "크리스피 크림 도넛<br /> 모바일 웹(국문) 구축",
+        "persent": 30
       },
       {
         "gubun": "y2015 ui w",
@@ -230,7 +250,8 @@
         "link": "/detail/w_benecol",
         "id" : "w_benecol",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/benecol_w.jpg",
-        "title": "롯데푸드 파스퇴르 베네콜"        
+        "title": "롯데푸드 파스퇴르 베네콜 웹",
+        "persent": 100
       },
       {
         "gubun": "y2015 ui m",
@@ -241,7 +262,8 @@
         "link": "/detail/m_adcap",
         "id" : "m_adcap",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/adcapsule_m.jpg",
-        "title": "애드캡슐소프트<br /> 홈페이지 개편"        
+        "title": "애드캡슐소프트<br /> 모바일 웹 개편",
+        "persent": 100
       },
       {
         "gubun": "y2014 ui r",
@@ -252,7 +274,8 @@
         "link": "/detail/w_samsung",
         "id" : "w_samsung",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/samsung_stock_r.jpg",
-        "title": "삼성증권 홈페이지 개편"        
+        "title": "삼성증권 홈페이지 개편",
+        "persent": 60
       },
       {
         "gubun": "y2014 ui m",
@@ -263,7 +286,8 @@
         "link": "/detail/m_kloudbeer",
         "id" : "m_kloudbeer",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kloud_m.jpg",
-        "title": "클라우드 맥주 브랜드 사이트"        
+        "title": "클라우드 맥주<br /> 브랜드 사이트 구축",
+        "persent": 100
       },
       {
         "gubun": "y2014 ui w",
@@ -274,7 +298,8 @@
         "link": "/detail/w_namdong_k",
         "id" : "w_namdong_k",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kosep_w_kr.jpg",
-        "title": "한국남동발전<br /> 인터넷 웹 서비스 개선"        
+        "title": "한국남동발전(KOR)<br /> 인터넷 웹 리뉴얼",
+        "persent": 30
       },
       {
         "gubun": "p2014 ui w",
@@ -285,7 +310,8 @@
         "link": "detail/web/w_namdong_e.html",
         "id" : "w_namdong_e",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kosep_w_en.jpg",
-        "title": "한국남동발전<br /> 인터넷 웹 홈페이지 서비스 개선"        
+        "title": "한국남동발전(ENG)<br /> 인터넷 웹 리뉴얼",
+        "persent": 30
       },
       {
         "gubun": "y2013 dev w",
@@ -296,7 +322,8 @@
         "link": "/detail/w_lottemembers",
         "id" : "w_lotte",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotte_w.jpg",
-        "title": "롯데카드 차세대 멤버스 홈페이지"        
+        "title": "롯데맴버스 차세대 멤버스 홈페이지",
+        "persent": 30
       },
       {
         "gubun": "y2013 dev m",
@@ -307,7 +334,8 @@
         "link": "/detail/m_lottemembers",
         "id" : "m_lotte",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotte_m.jpg",
-        "title": "롯데카드 차세대 멤버스 모바일"        
+        "title": "롯데맴버스 차세대 모바일 App",
+        "persent": 30
       },
       {
         "gubun": "y2013 dev w",
@@ -318,7 +346,8 @@
         "link": "/detail/w_dovol",
         "id" : "w_dovol",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/doval_w.jpg",
-        "title": "청소년 자원봉사<br /> 활동정보서비스"        
+        "title": "청소년 자원봉사<br /> 활동정보서비스 시스템 구축",
+        "persent": 20
       },
       {
         "gubun": "y2013 dev w",
@@ -329,7 +358,8 @@
         "link": "/detail/w_mofat",
         "id" : "w_mofat",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/mofat_w.jpg",
-        "title": "외교통상부<br /> 통합문서 관리 시스템"        
+        "title": "외교통상부<br /> 통합문서 관리 시스템 구축",
+        "persent": 30
       },
       {
         "gubun": "y2012 dev w",
@@ -340,7 +370,8 @@
         "link": "/detail/w_ramada",
         "id" : "w_ramada",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/ramada_w.jpg",
-        "title": "Ramada HOTEL Casino<br /> 웹 사이트 운영"        
+        "title": "Ramada HOTEL Casino<br /> 웹 사이트 운영",
+        "persent": 70
       }
     ]
   }
