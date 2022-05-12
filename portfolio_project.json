@@ -2,7 +2,7 @@
   "data":{
       "portfolio": [
       {
-        "gubun": "y2022 ui w r",
+        "gubun": "ui w r",
         "type": "Responsive",
         "leng": "KOR",
         "new": true,
@@ -15,7 +15,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2018 y2019 y2020 y2021 y2022 ui w r",
+        "gubun": "ui w r",
         "type": "Responsive",
         "leng": "KOR",
         "new": false,
@@ -28,7 +28,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2018 y2019 y2020 y2021 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -41,7 +41,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2018 y2019 y2020 y2021 ui w r",
+        "gubun": "ui w r",
         "type": "Responsive",
         "leng": "KOR",
         "new": false,
@@ -54,7 +54,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2017 p2018 ui w",
+        "gubun": "p2018 ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -67,7 +67,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2018 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -80,20 +80,20 @@
         "desc": ""
       },
       {
-        "gubun": "y2017 ui w",
+        "gubun": "ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
         "date": "2017.08.07 ~ 2017.11.09",
-        "link": "/detail/w_kebhana_company2",
-        "id" : "w_kebhana_company2",
+        "link": "/detail/w_kebhana_compan
+        "id" : "w_kebhana_compan
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_com2.jpg",
         "title": "KEB하나은행<br />기업뱅킹 서비스 통합 서비스 운영",
         "persent": 100,
         "desc": ""
       },
       {
-        "gubun": "y2017 ui w",
+        "gubun": "ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -106,7 +106,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2017 ui w",
+        "gubun": "ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -119,7 +119,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2016 p2017 ui w",
+        "gubun": "p2017 ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -132,7 +132,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2016 ui w",
+        "gubun": "ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -145,7 +145,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui w",
+        "gubun": "ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -158,7 +158,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -171,7 +171,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -184,7 +184,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "ENG",
         "new": false,
@@ -197,7 +197,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -210,7 +210,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "ENG",
         "new": false,
@@ -223,7 +223,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -236,7 +236,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -249,7 +249,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -262,7 +262,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui w",
+        "gubun": "ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -275,7 +275,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2015 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -288,7 +288,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2014 ui r",
+        "gubun": "ui r",
         "type": "Responsive",
         "leng": "KOR",
         "new": false,
@@ -301,7 +301,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2014 ui m",
+        "gubun": "ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -314,7 +314,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2014 ui w",
+        "gubun": "ui w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -340,7 +340,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2013 dev w",
+        "gubun": "dev w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -353,7 +353,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2013 dev m",
+        "gubun": "dev m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -366,7 +366,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2013 dev w",
+        "gubun": "dev w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -379,7 +379,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2013 dev w",
+        "gubun": "dev w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -392,7 +392,7 @@
         "desc": ""
       },
       {
-        "gubun": "y2012 dev w",
+        "gubun": "dev w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
