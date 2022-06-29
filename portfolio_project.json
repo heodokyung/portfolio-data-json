@@ -1,5 +1,4 @@
-{
-  "data":{
+{  
       "portfolio": [
       {
         "gubun": "ui w r",
@@ -404,6 +403,5 @@
         "persent": 70,
         "desc": ""
       }
-    ]
-  }
+    ]  
 }
