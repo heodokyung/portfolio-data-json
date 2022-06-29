@@ -1,5 +1,4 @@
-{
-  "data": {
+{  
   "skill": [
       {
         "names": "HTML5&CSS3",
@@ -86,5 +85,4 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_slack.png"
       }
     ]
-  }
 }
