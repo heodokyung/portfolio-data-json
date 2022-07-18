@@ -1,6 +1,19 @@
 {  
       "portfolio": [
       {
+        "gubun": "f w r",
+        "type": "Responsive",
+        "leng": "KOR",
+        "new": false,
+        "date": "2022.06.13 ~ 2022.06.17",
+        "link": "/detail/w_finnq_transmission",
+        "id" : "w_finnq_transmission",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/w_finnq_transmission.jpg",
+        "title": "마이데이터<br /> 전송요구동의 인증 개발",
+        "persent": 100,
+        "desc": ""
+      },
+      {
         "gubun": "f w",
         "type": "TOY-PROJECT",
         "leng": "KOR",
@@ -25,20 +38,7 @@
         "title": "토이프로젝트<br />영화 목록 리스트 사이트",
         "persent": 100,
         "desc": ""
-      },
-      {
-        "gubun": "f w r",
-        "type": "Responsive",
-        "leng": "KOR",
-        "new": false,
-        "date": "2022.06.13 ~ 2022.06.17",
-        "link": "/detail/w_finnq_transmission",
-        "id" : "w_finnq_transmission",
-        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/w_finnq_transmission.jpg",
-        "title": "마이데이터<br /> 전송요구동의 인증 개발",
-        "persent": 100,
-        "desc": ""
-      },
+      },      
       {
         "gubun": "f w r",
         "type": "Responsive",
