@@ -1,10 +1,49 @@
 {  
       "portfolio": [
       {
-        "gubun": "ui w r",
+        "gubun": "f w",
+        "type": "TOY-PROJECT",
+        "leng": "KOR",
+        "new": false,
+        "date": "2022.04.01 ~ 2022.04.07",
+        "link": "/detail/w_toy_coin_list",
+        "id" : "w_toy_coin_list",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_coin_list.jpg",
+        "title": "토이프로젝트<br />암호화폐 리스트 사이트",
+        "persent": 100,
+        "desc": ""
+      },
+      {
+        "gubun": "f w r",
+        "type": "TOY-PROJECT",
+        "leng": "KOR",        
+        "new": false,
+        "date": "2022.03.14 ~ 2022.03.17",
+        "link": "/detail/w_toy_movie_list",
+        "id" : "w_toy_movie_list",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_movie_list.jpg",
+        "title": "토이프로젝트<br />영화 목록 리스트 사이트",
+        "persent": 100,
+        "desc": ""
+      },
+      {
+        "gubun": "f w r",
         "type": "Responsive",
         "leng": "KOR",
-        "new": true,
+        "new": false,
+        "date": "2022.06.13 ~ 2022.06.17",
+        "link": "/detail/w_finnq_transmission",
+        "id" : "w_finnq_transmission",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/w_finnq_transmission.jpg",
+        "title": "마이데이터<br /> 전송요구동의 인증 개발",
+        "persent": 100,
+        "desc": ""
+      },
+      {
+        "gubun": "f w r",
+        "type": "Responsive",
+        "leng": "KOR",
+        "new": false,
         "date": "2022.05.02 ~ 2022.05.13",
         "link": "/detail/w_portfolio_v2",
         "id" : "w_portfolio_v2",
@@ -14,7 +53,7 @@
         "desc": ""
       },
       {
-        "gubun": "ui w r",
+        "gubun": "f ui w r",
         "type": "Responsive",
         "leng": "KOR",
         "new": false,
@@ -27,7 +66,7 @@
         "desc": ""
       },
       {
-        "gubun": "ui m",
+        "gubun": "f ui m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -339,7 +378,7 @@
         "desc": ""
       },
       {
-        "gubun": "dev w",
+        "gubun": "b w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -352,7 +391,7 @@
         "desc": ""
       },
       {
-        "gubun": "dev m",
+        "gubun": "b m",
         "type": "MOBILE",
         "leng": "KOR",
         "new": false,
@@ -365,7 +404,7 @@
         "desc": ""
       },
       {
-        "gubun": "dev w",
+        "gubun": "b w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -378,7 +417,7 @@
         "desc": ""
       },
       {
-        "gubun": "dev w",
+        "gubun": "b w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
@@ -391,7 +430,7 @@
         "desc": ""
       },
       {
-        "gubun": "dev w",
+        "gubun": "b w",
         "type": "WEB",
         "leng": "KOR",
         "new": false,
