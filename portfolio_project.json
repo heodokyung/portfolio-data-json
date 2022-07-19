@@ -3,6 +3,19 @@
       {
         "gubun": "f w r",
         "type": "Responsive",
+        "leng": "TOY-PROJECT",
+        "new": false,
+        "date": "2022.07.13 ~ 2022.07.19",
+        "link": "/detail/w_toy_todo_list",
+        "id" : "w_toy_todo_list",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_todo_list.jpg",
+        "title": "TOY PROJECT<br />Todo App 사이트",
+        "persent": 100,
+        "event": false
+      },
+      {
+        "gubun": "f w r",
+        "type": "Responsive",
         "leng": "KOR",
         "new": false,
         "date": "2022.06.13 ~ 2022.06.17",
@@ -11,33 +24,33 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/w_finnq_transmission.jpg",
         "title": "마이데이터<br /> 전송요구동의 인증 개발",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
-        "gubun": "f w",
-        "type": "TOY-PROJECT",
-        "leng": "KOR",
+        "gubun": "f w r",
+        "type": "Responsive",
+        "leng": "TOY-PROJECT",
         "new": false,
         "date": "2022.04.01 ~ 2022.04.07",
         "link": "/detail/w_toy_coin_list",
         "id" : "w_toy_coin_list",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_coin_list.jpg",
-        "title": "토이프로젝트<br />암호화폐 리스트 사이트",
+        "title": "TOY PROJECT<br />암호화폐 리스트 사이트",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "f w r",
-        "type": "TOY-PROJECT",
-        "leng": "KOR",        
+        "type": "Responsive",
+        "leng": "TOY-PROJECT",        
         "new": false,
         "date": "2022.03.14 ~ 2022.03.17",
         "link": "/detail/w_toy_movie_list",
         "id" : "w_toy_movie_list",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_movie_list.jpg",
-        "title": "토이프로젝트<br />영화 목록 리스트 사이트",
+        "title": "TOY PROJECT<br />영화 목록 리스트 사이트",
         "persent": 100,
-        "desc": ""
+        "event": false
       },      
       {
         "gubun": "f w r",
@@ -48,9 +61,9 @@
         "link": "/detail/w_portfolio_v2",
         "id" : "w_portfolio_v2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/portfolio_w_v2.jpg",
-        "title": "포트폴리오 웹 React 개편",
+        "title": "PORTFOLIO 웹 React 개편",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "f ui w r",
@@ -63,7 +76,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w_v2.jpg",
         "title": "Finnq<br />웹 서비스 React 개편",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "f ui m",
@@ -76,7 +89,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_m.jpg",
         "title": "Finnq<br /> App 2.0/3.0 개편 서비스 운영",
         "persent": 70,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w r",
@@ -89,7 +102,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w.jpg",
         "title": "Finnq<br />웹 서비스 2.0 운영",
         "persent": 80,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -102,7 +115,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_open.jpg",
         "title": "KEB하나은행<br />기업뱅킹 고도화 구현",
         "persent": 40,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -115,7 +128,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_m_app.jpg",
         "title": "KEB하나은행<br /> 1Q bank 기업뱅킹 App 구축",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -128,7 +141,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_com2.jpg",
         "title": "KEB하나은행<br />기업뱅킹 서비스 통합 서비스 운영",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -141,7 +154,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_combine.jpg",
         "title": "KEB하나은행<br /> 기업뱅킹 CBS 채널 통합개편",
         "persent": 80,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -154,7 +167,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_com.jpg",
         "title": "KEB하나은행<br />기업뱅킹 서비스 운영",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -167,7 +180,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/mirae_w.jpg",
         "title": "미래에셋대우<br /> 채널통합 TFT 시스템 구축",
         "persent": 70,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -180,7 +193,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w.jpg",
         "title": "KEB하나은행<br /> 개인뱅킹 웹 통합개편",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -193,7 +206,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/han_w.jpg",
         "title": "한국수력원자력<br /> 웹 사이트 통합개편",
         "persent": 40,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -206,7 +219,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/han_m.jpg",
         "title": "한국수력원자력<br /> 모바일 웹 사이트 통합개편",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -219,7 +232,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/tgif_m.jpg",
         "title": "TGI FRIDAYS <br /> 모바일 웹(KOR) 구축",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -232,7 +245,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/tgif_m_e.jpg",
         "title": "TGI FRIDAYS<br /> 모바일 웹(ENG) 구축",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -245,7 +258,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/angel_m.jpg",
         "title": "엔제리너스(KOR)<br /> 커피 모바일 웹 구축",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -258,7 +271,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/angel_m_e.jpg",
         "title": "엔제리너스(ENG)<br /> 커피 모바일 웹 구축",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -271,7 +284,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotteria_m.jpg",
         "title": "롯데리아<br /> 모바일 웹(국문) 구축",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -284,7 +297,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/natuur_m.jpg",
         "title": "나뚜루 팝<br /> 모바일 웹(국문) 구축",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -297,7 +310,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/krispy_m.jpg",
         "title": "크리스피 크림 도넛<br /> 모바일 웹(국문) 구축",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -310,7 +323,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/benecol_w.jpg",
         "title": "롯데푸드 파스퇴르 베네콜 웹",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -323,7 +336,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/adcapsule_m.jpg",
         "title": "애드캡슐소프트<br /> 모바일 웹 개편",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui r",
@@ -336,7 +349,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/samsung_stock_r.jpg",
         "title": "삼성증권 홈페이지 개편",
         "persent": 60,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui m",
@@ -349,7 +362,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kloud_m.jpg",
         "title": "클라우드 맥주<br /> 브랜드 사이트 구축",
         "persent": 100,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -362,7 +375,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kosep_w_kr.jpg",
         "title": "한국남동발전(KOR)<br /> 인터넷 웹 리뉴얼",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "ui w",
@@ -375,7 +388,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kosep_w_en.jpg",
         "title": "한국남동발전(ENG)<br /> 인터넷 웹 리뉴얼",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "b w",
@@ -388,7 +401,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotte_w.jpg",
         "title": "롯데맴버스 차세대 멤버스 홈페이지",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "b m",
@@ -401,7 +414,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/lotte_m.jpg",
         "title": "롯데맴버스 차세대 모바일 App",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "b w",
@@ -414,7 +427,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/doval_w.jpg",
         "title": "청소년 자원봉사<br /> 활동정보서비스 시스템 구축",
         "persent": 20,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "b w",
@@ -427,7 +440,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/mofat_w.jpg",
         "title": "외교통상부<br /> 통합문서 관리 시스템 구축",
         "persent": 30,
-        "desc": ""
+        "event": false
       },
       {
         "gubun": "b w",
@@ -440,7 +453,7 @@
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/ramada_w.jpg",
         "title": "Ramada HOTEL Casino<br /> 웹 사이트 운영",
         "persent": 70,
-        "desc": ""
+        "event": false
       }
     ]  
 }
