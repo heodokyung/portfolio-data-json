@@ -1,5 +1,18 @@
 {  
       "portfolio": [
+       {
+        "gubun": "f w r",
+        "type": "Responsive",
+        "leng": "TOY-PROJECT",
+        "new": false,
+        "date": "2022.07.18 ~ 2022.08.08",
+        "link": "/detail/w_toy_netflix",
+        "id" : "w_toy_netflix",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_netflix_list.jpg",
+        "title": "TOY PROJECT<br />Netflix",
+        "persent": 100,
+        "event": false
+      },
       {
         "gubun": "f w r",
         "type": "Responsive",
