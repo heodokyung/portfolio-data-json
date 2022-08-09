@@ -9,7 +9,7 @@
         "link": "/detail/w_toy_netflix",
         "id" : "w_toy_netflix",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_netflix_list.jpg",
-        "title": "TOY PROJECT<br />Netflix",
+        "title": "[React] Netflix",
         "persent": 100,
         "event": false
       },
@@ -22,7 +22,7 @@
         "link": "/detail/w_toy_todo_list",
         "id" : "w_toy_todo_list",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_todo_list.jpg",
-        "title": "TOY PROJECT<br />Todo App 사이트",
+        "title": "[React] Todo App",
         "persent": 100,
         "event": false
       },
@@ -48,7 +48,7 @@
         "link": "/detail/w_toy_coin_list",
         "id" : "w_toy_coin_list",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_coin_list.jpg",
-        "title": "TOY PROJECT<br />암호화폐 리스트 사이트",
+        "title": "[React] 암호화폐 리스트 ",
         "persent": 100,
         "event": false
       },
@@ -61,7 +61,7 @@
         "link": "/detail/w_toy_movie_list",
         "id" : "w_toy_movie_list",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_movie_list.jpg",
-        "title": "TOY PROJECT<br />영화 목록 리스트 사이트",
+        "title": "[React] 영화 리스트 웹",
         "persent": 100,
         "event": false
       },      
@@ -139,7 +139,7 @@
         "link": "/detail/m_hana_app",
         "id" : "m_hana_app",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_m_app.jpg",
-        "title": "KEB하나은행<br /> 1Q bank 기업뱅킹 App 구축",
+        "title": "KEB하나은행<br /> 기업뱅킹 1Q bank App 구축",
         "persent": 100,
         "event": false
       },
@@ -152,7 +152,7 @@
         "link": "/detail/w_kebhana_company2",
         "id" : "w_kebhana_company2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/kebhana_w_com2.jpg",
-        "title": "KEB하나은행<br />기업뱅킹 서비스 통합 서비스 운영",
+        "title": "KEB하나은행<br />기업뱅킹 통합 서비스 운영",
         "persent": 100,
         "event": false
       },
