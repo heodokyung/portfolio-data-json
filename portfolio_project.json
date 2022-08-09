@@ -9,7 +9,7 @@
         "link": "/detail/w_toy_netflix",
         "id" : "w_toy_netflix",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_netflix_list.jpg",
-        "title": "[React] Netflix",
+        "title": "[React] Netflix Clone",
         "persent": 100,
         "event": false
       },
