@@ -9,23 +9,23 @@
         "link": "/detail/w_toy_netflix",
         "id" : "w_toy_netflix",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_netflix_list.jpg",
-        "title": "[React] Netflix Clone",
+        "title": "개인프로젝트 - [React] Netflix Clone",
         "persent": 100,
         "event": false
       },
-      // {
-      //   "gubun": "f w r",
-      //   "type": "Responsive",
-      //   "leng": "TOY-PROJECT",
-      //   "new": false,
-      //   "date": "2022.07.13 ~ 2022.07.19",
-      //   "link": "/detail/w_toy_todo_list",
-      //   "id" : "w_toy_todo_list",
-      //   "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_todo_list.jpg",
-      //   "title": "[React] Todo App",
-      //   "persent": 100,
-      //   "event": false
-      // },
+      {
+        "gubun": "f w r",
+        "type": "Responsive",
+        "leng": "TOY-PROJECT",
+        "new": false,
+        "date": "2022.07.13 ~ 2022.07.19",
+        "link": "/detail/w_toy_todo_list",
+        "id" : "w_toy_todo_list",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_todo_list.jpg",
+        "title": "개인프로젝트 - [React] Todo App",
+        "persent": 100,
+        "event": false
+      },
       {
         "gubun": "f w r",
         "type": "Responsive",
@@ -39,7 +39,6 @@
         "persent": 100,
         "event": false
       },
-      /*      
       {
         "gubun": "f w r",
         "type": "Responsive",
@@ -49,7 +48,7 @@
         "link": "/detail/w_toy_coin_list",
         "id" : "w_toy_coin_list",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_coin_list.jpg",
-        "title": "[React] 암호화폐 리스트 ",
+        "title": "개인프로젝트 - [React] 암호화폐 랭킹 사이트",
         "persent": 100,
         "event": false
       },
@@ -62,7 +61,7 @@
         "link": "/detail/w_toy_movie_list",
         "id" : "w_toy_movie_list",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_movie_list.jpg",
-        "title": "[React] 영화 리스트 웹",
+        "title": "개인프로젝트 - [React] 영화 리스트 웹",
         "persent": 100,
         "event": false
       },
@@ -75,11 +74,10 @@
         "link": "/detail/w_portfolio_v2",
         "id" : "w_portfolio_v2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/portfolio_w_v2.jpg",
-        "title": "PORTFOLIO 웹 React 개편",
+        "title": "개인프로젝트 - [React] PORTFOLIO 개편",
         "persent": 100,
         "event": false
       },
-      */
       {
         "gubun": "f ui w r",
         "type": "Responsive",
