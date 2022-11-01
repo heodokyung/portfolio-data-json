@@ -1,4 +1,4 @@
-{  
+{
       "portfolio": [
        {
         "gubun": "f w r",
@@ -13,19 +13,19 @@
         "persent": 100,
         "event": false
       },
-      {
-        "gubun": "f w r",
-        "type": "Responsive",
-        "leng": "TOY-PROJECT",
-        "new": false,
-        "date": "2022.07.13 ~ 2022.07.19",
-        "link": "/detail/w_toy_todo_list",
-        "id" : "w_toy_todo_list",
-        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_todo_list.jpg",
-        "title": "[React] Todo App",
-        "persent": 100,
-        "event": false
-      },
+      // {
+      //   "gubun": "f w r",
+      //   "type": "Responsive",
+      //   "leng": "TOY-PROJECT",
+      //   "new": false,
+      //   "date": "2022.07.13 ~ 2022.07.19",
+      //   "link": "/detail/w_toy_todo_list",
+      //   "id" : "w_toy_todo_list",
+      //   "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/toy_todo_list.jpg",
+      //   "title": "[React] Todo App",
+      //   "persent": 100,
+      //   "event": false
+      // },
       {
         "gubun": "f w r",
         "type": "Responsive",
@@ -39,6 +39,7 @@
         "persent": 100,
         "event": false
       },
+      /*      
       {
         "gubun": "f w r",
         "type": "Responsive",
@@ -55,7 +56,7 @@
       {
         "gubun": "f w r",
         "type": "Responsive",
-        "leng": "TOY-PROJECT",        
+        "leng": "TOY-PROJECT",
         "new": false,
         "date": "2022.03.14 ~ 2022.03.17",
         "link": "/detail/w_toy_movie_list",
@@ -64,7 +65,7 @@
         "title": "[React] 영화 리스트 웹",
         "persent": 100,
         "event": false
-      },      
+      },
       {
         "gubun": "f w r",
         "type": "Responsive",
@@ -78,6 +79,7 @@
         "persent": 100,
         "event": false
       },
+      */
       {
         "gubun": "f ui w r",
         "type": "Responsive",
@@ -87,7 +89,7 @@
         "link": "/detail/w_finnq_v3",
         "id" : "w_finnq_v3",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w_v2.jpg",
-        "title": "Finnq<br />웹 서비스 React 개편",
+        "title": "Finnq<br />웹 사이트 React 전면 개편",
         "persent": 100,
         "event": false
       },
@@ -100,7 +102,7 @@
         "link": "/detail/m_finnq_app_v2",
         "id" : "m_finnq_app_v2",
         "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_m.jpg",
-        "title": "Finnq<br /> App 2.0/3.0 개편 서비스 운영",
+        "title": "Finnq<br /> App 3.0 전면 개편 및 서비스 운영",
         "persent": 70,
         "event": false
       },
@@ -468,5 +470,5 @@
         "persent": 70,
         "event": false
       }
-    ]  
+    ]
 }
