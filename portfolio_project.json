@@ -90,19 +90,6 @@
         "title": "개인프로젝트 - [React] 영화 리스트 웹",
         "persent": 100,
         "event": false
-      },
-      {
-        "gubun": "f w r",
-        "type": "Responsive",
-        "leng": "KOR",
-        "new": false,
-        "date": "2022.05.02 ~ 2022.05.13",
-        "link": "/detail/w_portfolio_v2",
-        "id" : "w_portfolio_v2",
-        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/portfolio_w_v2.jpg",
-        "title": "개인프로젝트 - [React] PORTFOLIO 개편",
-        "persent": 100,
-        "event": false
       },      
       {
         "gubun": "ui w r",
