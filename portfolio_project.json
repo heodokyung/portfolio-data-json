@@ -1,6 +1,32 @@
 {
       "portfolio": [
        {
+        "gubun": "f ui w r",
+        "type": "Responsive",
+        "leng": "KOR",
+        "new": false,
+        "date": "2021.07.12 ~ 2022.09.16",
+        "link": "/detail/w_finnq_v3",
+        "id" : "w_finnq_v3",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w_v2.jpg",
+        "title": "Finnq<br />웹 사이트 React 전면 개편 및 운영",
+        "persent": 100,
+        "event": false
+      },
+      {
+        "gubun": "f ui m",
+        "type": "MOBILE",
+        "leng": "KOR",
+        "new": false,
+        "date": "2018.08.01 ~ 2022.09.16",
+        "link": "/detail/m_finnq_app_v2",
+        "id" : "m_finnq_app_v2",
+        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_m.jpg",
+        "title": "Finnq<br /> App 3.0 전면 개편 및 서비스 운영",
+        "persent": 70,
+        "event": false
+      },
+      {
         "gubun": "f w r",
         "type": "Responsive",
         "leng": "TOY-PROJECT",
@@ -77,33 +103,7 @@
         "title": "개인프로젝트 - [React] PORTFOLIO 개편",
         "persent": 100,
         "event": false
-      },
-      {
-        "gubun": "f ui w r",
-        "type": "Responsive",
-        "leng": "KOR",
-        "new": false,
-        "date": "2021.07.12 ~ 2022.09.16",
-        "link": "/detail/w_finnq_v3",
-        "id" : "w_finnq_v3",
-        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_w_v2.jpg",
-        "title": "Finnq<br />웹 사이트 React 전면 개편",
-        "persent": 100,
-        "event": false
-      },
-      {
-        "gubun": "f ui m",
-        "type": "MOBILE",
-        "leng": "KOR",
-        "new": false,
-        "date": "2018.08.01 ~ 2022.09.16",
-        "link": "/detail/m_finnq_app_v2",
-        "id" : "m_finnq_app_v2",
-        "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/finnq_m.jpg",
-        "title": "Finnq<br /> App 3.0 전면 개편 및 서비스 운영",
-        "persent": 70,
-        "event": false
-      },
+      },      
       {
         "gubun": "ui w r",
         "type": "Responsive",
