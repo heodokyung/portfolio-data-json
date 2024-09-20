@@ -1,5 +1,18 @@
 {
-  "portfolio": [
+  "portfolio": [     
+    {
+      "gubun": "ui m",
+      "type": "MOBILE",
+      "leng": "KOR",
+      "new": false,
+      "date": "2024.8.30 ~ 현재",
+      "link": "/detail/m_themarket",
+      "id" : "m_themarket",
+      "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/cj_themarket_m.png",
+      "title": "CJ The Market<br />Vue3 주요 화면 변경 개편 1차",
+      "persent": 80,
+      "event": false
+     },
     {
       "gubun": "ui w",
       "type": "WEB",
@@ -18,7 +31,7 @@
       "type": "MOBILE",
       "leng": "KOR",
       "new": false,
-      "date": "2022.11.01 ~ 현재",
+      "date": "2022.11.01 ~ 2024.8.30",
       "link": "/detail/m_themarket",
       "id" : "m_themarket",
       "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_project/cj_themarket_m.png",
