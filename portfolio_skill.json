@@ -20,8 +20,7 @@
       "details": "JavaScript의 ES5, ES6 문법을 활용하여 웹/앱 환경에 최적화 된 모션과 기능을 구현하도록 노력합니다.",
       "url": "https://www.w3schools.com/js/",
       "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_script.png"
-    },
-    ,
+    },    
     {
       "names": "Vue",
       "id": "vue",
