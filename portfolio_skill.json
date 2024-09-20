@@ -8,9 +8,9 @@
       "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_html.png"
     },
     {
-      "names": "Sass",
+      "names": "Sass/Scss",
       "id": "sass",
-      "details": "Sass를 활용하여 CSS를 컴파일 합니다. 간결하고 재사용, 확장성이 가능한 CSS 코드를 사용하려 합니다.",
+      "details": "Sass/Scss를 활용하여 CSS를 컴파일 합니다. 간결하고 재사용, 확장성이 가능한 CSS 코드를 사용하려 합니다.",
       "url": "https://sass-lang.com/",
       "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_sass.png"
     },
@@ -21,17 +21,25 @@
       "url": "https://www.w3schools.com/js/",
       "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_script.png"
     },
+    ,
+    {
+      "names": "Vue",
+      "id": "vue",
+      "details": "Vue3로 Front-End 화면을 구현합니다. 더마켓을 Vue3환경에서 초기 환경 셋팅부터 공통 부분 요소의 컴포넌트 및 구조를 만드는 작업을 하였습니다.",
+      "url": "https://ko.vuejs.org/",
+      "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_vue.png"
+    }, 
     {
       "names": "React",
       "id": "react",
       "details": "React로 Front-End 화면을 구현합니다. Finnq 웹사이트 개편을 React로 구현하였습니다. React의 상태관리를 위해 Recoil을 사용합니다.",
-      "url": "https://github.com/",
+      "url": "https://ko.legacy.reactjs.org/",
       "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_react.png"
     },      
     {
-      "names": "Next.",
+      "names": "Next/Nuxt.",
       "id": "next",
-      "details": "React의 SSR(Server Side Rendering)을 쉽게 구현할 수 있도록 Next.js를 이용했습니다.",
+      "details": "React/Vue 가상 돔 환경의 SSR(Server Side Rendering)을 구현할 수 있도록 사용하였습니다.",
       "url": "https://nextjs.org/",
       "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_next.png"
     },
