@@ -77,7 +77,7 @@
       "url": "https://ko.atlassian.com/software/confluence",
       "imgSrc": "https://heodokyung.github.io/portfolio-data-json/thumb_img_skill/ico_skill_wiki.png"
     },
-  {
+    {
       "names": "Slack",
       "id": "slack",
       "details": "Slack을 통해 이슈사항을 공유하고 프로젝트별로 채널을 만들어 업무의 상황과 이슈를 공유하여 효율을 높입니다.",
